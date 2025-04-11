@@ -1,16 +1,31 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number: 212224040089
+## Name: GEETHU R
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+Digital Plant Care & Tree Plantation Tracker
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
+A lightweight and user-friendly platform for encouraging tree planting and plant nurturing among students, individuals, and communities. The website and mobile application provide users with the ability to document their every tree planting with a photo, location, and date. Users are reminded regularly on watering and tending to their plants, making them regular with green behaviors. The app also provides simple-to-follow care instructions for popular indoor and outdoor plants, so it is easy for beginners. Schools, colleges, and environmental clubs can leverage the platform to monitor group involvement in tree plantation drives and organize green challenges. A built-in environmental impact calculator displays the amount of oxygen their trees yield and how much carbon dioxide they contribute towards reducing—motivating users to continue and be proud of what they're doing.
 
 ## Problem Creater's Organization
-Ministry of Defence
+Ministry of Environment, Forest and Climate Change
 
 ## Idea
+Tree Plantation Logbook:
+Users can upload photos of trees planted and include location and date.
+
+Watering Reminders:
+Send friendly reminders to water plants and nurture them according to plant type.
+
+Plant Care Tips:
+Offer simple tips for cultivating common indoor and outdoor plants.
+
+School/College Participation:
+Make group challenges for planting trees and monitor how many each class or college has planted.
+
+Oxygen Calculator:
+A cool feature that informs people how much oxygen their trees can produce and how they're contributing to the planet.
+
 
 
 ## Proposed Solution / Architecture Diagram
@@ -20,7 +35,24 @@ Ministry of Defence
 
 
 ## Technology Stack
+Frontend: React.js
 
+Backend: Node.js
+
+Database: PostgreSQL
+
+Authentication: Firebase Authenticator
+
+Mapping: Google Maps (for location of trees)
+
+Tools: Git, Postman or Insomnia
 
 ## Dependencies
+Tree database & oxygen calculator logic: 10 days
+
+User reminder & group challenge feature: 10 days
+
+Budget: ₹50,000
+
+
 
