@@ -29,6 +29,7 @@ A cool feature that informs people how much oxygen their trees can produce and h
 
 
 ## Proposed Solution / Architecture Diagram
+![Proposed Solution SIH](https://github.com/user-attachments/assets/21434869-ffa7-4482-98e2-70ba085643a7)
 
 
 ## Use Cases
