@@ -3,7 +3,7 @@
 ## Register Number: 212224040089
 ## Name: GEETHU R
 ## Problem Title
-Digital Plant Care & Tree Plantation Tracker
+Digital Plant Care and Tree Plantation Tracker
 ## Problem Description
 A lightweight and user-friendly platform for encouraging tree planting and plant nurturing among students, individuals, and communities. The website and mobile application provide users with the ability to document their every tree planting with a photo, location, and date. Users are reminded regularly on watering and tending to their plants, making them regular with green behaviors. The app also provides simple-to-follow care instructions for popular indoor and outdoor plants, so it is easy for beginners. Schools, colleges, and environmental clubs can leverage the platform to monitor group involvement in tree plantation drives and organize green challenges. A built-in environmental impact calculator displays the amount of oxygen their trees yield and how much carbon dioxide they contribute towards reducing—motivating users to continue and be proud of what they're doing.
 
