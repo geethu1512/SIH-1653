@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date: 12-04-2025
 ## Register Number: 212224040089
 ## Name: GEETHU R
 ## Problem Title
@@ -29,10 +29,12 @@ A cool feature that informs people how much oxygen their trees can produce and h
 
 
 ## Proposed Solution / Architecture Diagram
-![Proposed Solution SIH](https://github.com/user-attachments/assets/21434869-ffa7-4482-98e2-70ba085643a7)
+
+![Proposed solution](https://github.com/user-attachments/assets/0c3fbc99-3045-4e02-bced-5c0e762f68cc)
 
 
 ## Use Cases
+![Use Cases SIH](https://github.com/user-attachments/assets/6fc9eb9d-9a58-4b2a-ae59-2ce1edf74a8e)
 
 
 ## Technology Stack
